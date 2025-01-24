@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ewersson</groupId>
-	<artifactId>npl</artifactId>
+	<artifactId>nlp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>npl</name>
+	<name>nlp</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

@@ -1,4 +1,4 @@
-package com.ewersson.npl.service
+package com.ewersson.nlp.service
 
 import opennlp.tools.sentdetect.SentenceDetectorME
 import opennlp.tools.sentdetect.SentenceModel

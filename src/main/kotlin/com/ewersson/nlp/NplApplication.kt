@@ -1,4 +1,4 @@
-package com.ewersson.npl
+package com.ewersson.nlp
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
